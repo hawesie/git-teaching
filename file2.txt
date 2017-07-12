@@ -1,1 +1,1 @@
-And adding a new file.
+And adding a new file. And editing file2.txt. Isn't this fun!
