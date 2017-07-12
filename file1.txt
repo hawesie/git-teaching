@@ -1,1 +1,1 @@
-This is a new file for the lecture. Hello everyone! I am making a BAD change.  Yes! Let's try this.
+This is a new file for the lecture. Hello everyone! I am making a MODERATE change.  Yes! Let's try this.
